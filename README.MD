@@ -3,6 +3,7 @@
 A fully autonomous robot that explores and maps unknown environments using **Simultaneous Localization and Mapping (SLAM)**, built with Python, ROS2, and the Stage simulator.
 
 [Watch Demo — Probabilistic Mapping](https://youtu.be/Ud5Zz3YyYBg)
+
 [![Probabilistic Mapping Demo](https://img.youtube.com/vi/Ud5Zz3YyYBg/0.jpg)](https://youtu.be/Ud5Zz3YyYBg)
 
 ---
