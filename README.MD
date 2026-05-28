@@ -2,6 +2,8 @@
 
 A fully autonomous robot that explores and maps unknown environments using **Simultaneous Localization and Mapping (SLAM)**, built with Python, ROS2, and the Stage simulator.
 
+<video src="assets/Probabalistic mapping video.mp4" width="100%" controls autoplay loop muted></video>
+
 ---
 
 ## Overview
@@ -103,4 +105,4 @@ All behavior is controlled via parameters at the top of the node file:
 
 ## Acknowledgements
 
-All code is original work. Portions adapted from a prior assignment (PA3). Thanks to Dr. Quattrini Li for guidance during office hours. An LLM was consulted for debugging assistance.
+All code is original work. Portions adapted from a prior assignment (PA3). Thanks to Dr. Quattrini Li for his help. 
